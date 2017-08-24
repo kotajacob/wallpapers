@@ -1,0 +1,3 @@
+*.jpeg
+*.jpg
+script/out/*.png
